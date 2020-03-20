@@ -1,4 +1,4 @@
-# LoggerCpp  [![Documentation](https://codedocs.xyz/sayantanroy47/LoggerCpp.svg)](https://codedocs.xyz/sayantanroy47/LoggerCpp/)
+# LoggerCpp  [![Documentation](https://codedocs.xyz/sayantanroy47/LoggerCpp.svg)](https://codedocs.xyz/sayantanroy47/LoggerCpp/) [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 [![HitCount](http://hits.dwyl.com/sayantanroy47/LoggerCpp.svg)](http://hits.dwyl.com/sayantanroy47/LoggerCpp)
 
 development :  [![Build Status](https://travis-ci.com/sayantanroy47/LoggerCpp.svg?branch=development)](https://travis-ci.com/sayantanroy47/LoggerCpp)
